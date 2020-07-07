@@ -9,4 +9,5 @@
 `https://developer.mozilla.org/fr/docs/Web/CSS/border`  
 `https://developer.mozilla.org/fr/docs/Web/HTML/Element/Img`   
 
+## Maquette :
 ![Carte.postale](https://zupimages.net/up/20/28/k1le.png)
